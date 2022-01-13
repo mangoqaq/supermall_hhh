@@ -11,5 +11,18 @@ module.exports = {
         'network': '@/network'
       }
     }
-  }
+  },
+  devServer:{
+    proxy:{
+      '/':{
+        target:process.env.VUE_APP_BASE_API,
+        ws:false,
+        changeOrigin:true,
+        pathRewrite:{
+          '^':'/'
+        }
+      }
+    }
+  },
+
 }

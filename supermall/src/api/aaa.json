@@ -1,0 +1,1316 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "filter": {
+            "title": "买手精选",
+            "list": [
+                {
+                    "fcid": "50019",
+                    "sort": "pop",
+                    "type": "sort",
+                    "title": "综合"
+                },
+                {
+                    "fcid": "50019",
+                    "sort": "sell",
+                    "type": "sort",
+                    "title": "销量"
+                },
+                {
+                    "fcid": "50019",
+                    "sort": "new",
+                    "type": "sort",
+                    "title": "上新"
+                },
+                {
+                    "fcid": 50019,
+                    "style": {
+                        "sort": "pop",
+                        "type": "price",
+                        "list": [
+                            {
+                                "minPrice": "80",
+                                "maxPrice": "110",
+                                "title": "80-110"
+                            },
+                            {
+                                "minPrice": "110",
+                                "maxPrice": "225",
+                                "title": "110-225"
+                            },
+                            {
+                                "minPrice": "225",
+                                "maxPrice": "325",
+                                "title": "225-325"
+                            }
+                        ]
+                    },
+                    "title": "价格",
+                    "type": "price"
+                }
+            ]
+        },
+        "param": {
+            "eventId": "0x00000000",
+            "fieldBenchmark": false,
+            "cKey": "defaultKey-app",
+            "fcid": "50019",
+            "cpcEventId": "70005",
+            "section": "0",
+            "_mgjuuid": "98cefd76-7620-4225-89ec-ca8d6ca85937",
+            "page": "1",
+            "sort": "pop",
+            "duplicate": false,
+            "enableNewFcidParse": true
+        },
+        "wall": {
+            "offset": 30,
+            "mbook": "eyJjS2V5IjoiZGVmYXVsdEtleS1hcHAiLCJmY2lkIjo1MDAxOSwid2lkdGgiOjIyMCwicGFnZSI6MSwic29ydCI6InBvcCIsImhlaWdodCI6MzMwfQ==",
+            "page": 1,
+            "title": "买手精选",
+            "list": [
+                {
+                    "itemType": 7,
+                    "iid": "17tgb46",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=17tgb46&acm=3.ms.1_1_17tgb46.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_82027189_1290222_1_0-src_0-pid_180-c1_50019_nil_nil_0_1290222_80_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazY0aTMyXzE5NDA5MTA0Y2U5YzY0MmJkZWUxNjVmZTllNGNiYWIzXzE2XzBfODIwMjcxODlfNGI4Zl8xMjkwMjIyXzFfMF81MDhfMV8wX3JzLTUwMDE5LnJ0LTAud3QtMA==",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/p1/160712/103310844_ie4gmntgmu3dinlchezdambqgiyde_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/p1/160712/103310844_ie4gmntgmu3dinlchezdambqgiyde_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=17tgb46&acm=3.ms.1_1_17tgb46.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_82027189_1290222_1_0-src_0-pid_180-c1_50019_nil_nil_0_1290222_80_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazY0aTMyXzE5NDA5MTA0Y2U5YzY0MmJkZWUxNjVmZTllNGNiYWIzXzE2XzBfODIwMjcxODlfNGI4Zl8xMjkwMjIyXzFfMF81MDhfMV8wX3JzLTUwMDE5LnJ0LTAud3QtMA==",
+                    "itemMarks": "1525 1854 189 72 61 73",
+                    "acm": "3.ms.1_1_17tgb46.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_82027189_1290222_1_0-src_0-pid_180-c1_50019_nil_nil_0_1290222_80_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0",
+                    "title": "纯棉高领打底衫女秋冬韩版黑色2021新款百搭长袖修身套头T恤",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xazY0aTMyXzE5NDA5MTA0Y2U5YzY0MmJkZWUxNjVmZTllNGNiYWIzXzE2XzBfODIwMjcxODlfNGI4Zl8xMjkwMjIyXzFfMF81MDhfMV8wX3JzLTUwMDE5LnJ0LTAud3QtMA==",
+                    "orgPrice": "¥65",
+                    "props": [
+                        "纯棉高领打底衫女秋冬韩版黑色2021新款百搭长袖修身套头T恤"
+                    ],
+                    "onShelfTime": 1468309184,
+                    "hasSimilarity": true,
+                    "sale": 69,
+                    "cfav": 3824,
+                    "price": "¥39",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=17tgb46&acm=3.ms.1_1_17tgb46.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_82027189_1290222_1_0-src_0-pid_180-c1_50019_nil_nil_0_1290222_80_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&itemType=7&imgSurl=/p1/160712/103310844_ie4gmntgmu3dinlchezdambqgiyde_640x960.jpg"
+                },
+                {
+                    "itemType": 7,
+                    "iid": "1n2kqom",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2kqom&acm=3.ms.1_1_1n2kqom.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609805611_0_2_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazU5cnRzXzQ0MjZiYzRjZDBmOGFlZGNjNzUwYjMzZTVlNTc3OGE2XzE2XzFfNjA5ODA1NjExXzRmODZfMF8yXzBfOTQ1XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211112_3558k0delk7gb9eji1hece018jeid_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211112_3558k0delk7gb9eji1hece018jeid_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2kqom&acm=3.ms.1_1_1n2kqom.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609805611_0_2_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazU5cnRzXzQ0MjZiYzRjZDBmOGFlZGNjNzUwYjMzZTVlNTc3OGE2XzE2XzFfNjA5ODA1NjExXzRmODZfMF8yXzBfOTQ1XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "itemMarks": "1854",
+                    "acm": "3.ms.1_1_1n2kqom.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609805611_0_2_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0",
+                    "title": "加绒加厚打底衫女保暖高领内搭冬季长袖新款蕾丝上衣洋气韩版",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xazU5cnRzXzQ0MjZiYzRjZDBmOGFlZGNjNzUwYjMzZTVlNTc3OGE2XzE2XzFfNjA5ODA1NjExXzRmODZfMF8yXzBfOTQ1XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "orgPrice": "¥99.72",
+                    "props": [
+                        "加绒加厚打底衫女保暖高领内搭冬季长袖新款蕾丝上衣洋气韩版"
+                    ],
+                    "onShelfTime": 1636653084,
+                    "hasSimilarity": true,
+                    "sale": 34,
+                    "cfav": 31,
+                    "price": "¥69.8",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1n2kqom&acm=3.ms.1_1_1n2kqom.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609805611_0_2_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&itemType=7&imgSurl=/mlcdn/55cf19/211112_3558k0delk7gb9eji1hece018jeid_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mrmsqm",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mrmsqm&acm=3.ms.1_4_1mrmsqm.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_563369302_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NjMzNjkzMDJfNGY4Zl8wXzBfMF8yMjdfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200331_4ffadh7c5374ifjgah117e50f1j8e_3332x4999.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200331_4ffadh7c5374ifjgah117e50f1j8e_3332x4999.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mrmsqm&acm=3.ms.1_4_1mrmsqm.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_563369302_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NjMzNjkzMDJfNGY4Zl8wXzBfMF8yMjdfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1854 3002 3001",
+                    "acm": "3.ms.1_4_1mrmsqm.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_563369302_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "短款风衣工装外套女秋装新款韩版宽松bf风薄款百搭休闲短外套女",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NjMzNjkzMDJfNGY4Zl8wXzBfMF8yMjdfMV8zX2xvYy0w",
+                    "orgPrice": "¥199",
+                    "props": [
+                        "短款风衣工装外套女秋装新款韩版宽松bf风薄款百搭休闲短外套女"
+                    ],
+                    "onShelfTime": 1585593527,
+                    "hasSimilarity": true,
+                    "sale": 4,
+                    "cfav": 1578,
+                    "price": "¥89",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mrmsqm&acm=3.ms.1_4_1mrmsqm.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_563369302_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200331_4ffadh7c5374ifjgah117e50f1j8e_3332x4999.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1m8qaq6",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1m8qaq6&acm=3.ms.1_4_1m8qaq6.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_440319870_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF80NDAzMTk4NzBfNGY4ZV8wXzBfMF8zMjRfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180919_2lh6f9ha432l09gal4chlb5dkd275_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180919_2lh6f9ha432l09gal4chlb5dkd275_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1m8qaq6&acm=3.ms.1_4_1m8qaq6.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_440319870_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF80NDAzMTk4NzBfNGY4ZV8wXzBfMF8zMjRfMV8zX2xvYy0w",
+                    "itemMarks": "1019 188",
+                    "acm": "3.ms.1_4_1m8qaq6.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_440319870_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "春秋装新款个性蝴蝶结系带性感V领白色长袖衬衫女韩版宽松衬衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF80NDAzMTk4NzBfNGY4ZV8wXzBfMF8zMjRfMV8zX2xvYy0w",
+                    "orgPrice": "¥85",
+                    "props": [
+                        "春秋装新款个性蝴蝶结系带性感V领白色长袖衬衫女韩版宽松衬衣"
+                    ],
+                    "onShelfTime": 1537302166,
+                    "hasSimilarity": true,
+                    "sale": 0,
+                    "cfav": 3375,
+                    "price": "¥49",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1m8qaq6&acm=3.ms.1_4_1m8qaq6.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_440319870_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/180919_2lh6f9ha432l09gal4chlb5dkd275_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mvedq6",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvedq6&acm=3.ms.1_4_1mvedq6.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_585775707_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODU3NzU3MDdfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200810_74bd0973488bg6e0f0hi3b95934if_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200810_74bd0973488bg6e0f0hi3b95934if_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvedq6&acm=3.ms.1_4_1mvedq6.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_585775707_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODU3NzU3MDdfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1854 3002 3001",
+                    "acm": "3.ms.1_4_1mvedq6.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_585775707_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "英伦风外套风衣时尚新款春季中长款宽松大衣气质洋气百搭外套女潮",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODU3NzU3MDdfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "orgPrice": "¥170.86",
+                    "props": [
+                        "英伦风外套风衣时尚新款春季中长款宽松大衣气质洋气百搭外套女潮"
+                    ],
+                    "onShelfTime": 1597072731,
+                    "hasSimilarity": true,
+                    "sale": 5,
+                    "cfav": 1451,
+                    "price": "¥119.6",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mvedq6&acm=3.ms.1_4_1mvedq6.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_585775707_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200810_74bd0973488bg6e0f0hi3b95934if_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mbfaq8",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mbfaq8&acm=3.ms.1_4_1mbfaq8.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181118_27405cckg2dick0cdcfc5lga8l817_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181118_27405cckg2dick0cdcfc5lga8l817_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mbfaq8&acm=3.ms.1_4_1mbfaq8.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "itemMarks": "1854 1270",
+                    "acm": "3.ms.1_4_1mbfaq8.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "羽绒服女中长款2021冬季新款韩版过膝修身显瘦连帽加厚羽绒衣",
+                    "type": 2,
+                    "orgPrice": "¥427.15",
+                    "props": [
+                        "羽绒服女中长款2021冬季新款韩版过膝修身显瘦连帽加厚羽绒衣"
+                    ],
+                    "onShelfTime": 1542533534,
+                    "hasSimilarity": true,
+                    "sale": 12,
+                    "cfav": 1626,
+                    "price": "¥299",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mbfaq8&acm=3.ms.1_4_1mbfaq8.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/181118_27405cckg2dick0cdcfc5lga8l817_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mpkb2q",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mpkb2q&acm=3.ms.1_4_1mpkb2q.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_552415362_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTI0MTUzNjJfNGY4Zl8wXzBfMF83OTdfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/191230_2glgea1g5074dlf0f195g477fc44f_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/191230_2glgea1g5074dlf0f195g477fc44f_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mpkb2q&acm=3.ms.1_4_1mpkb2q.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_552415362_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTI0MTUzNjJfNGY4Zl8wXzBfMF83OTdfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1080 1854 1270",
+                    "acm": "3.ms.1_4_1mpkb2q.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_552415362_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "立领蕾丝打底衬衫春秋洋气内搭设计感小众透视宽松套头上衣衬衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTI0MTUzNjJfNGY4Zl8wXzBfMF83OTdfMV8zX2xvYy0w",
+                    "orgPrice": "¥103",
+                    "props": [
+                        "立领蕾丝打底衬衫春秋洋气内搭设计感小众透视宽松套头上衣衬衣"
+                    ],
+                    "onShelfTime": 1577715485,
+                    "hasSimilarity": true,
+                    "sale": 4,
+                    "cfav": 533,
+                    "price": "¥72.1",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mpkb2q&acm=3.ms.1_4_1mpkb2q.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_552415362_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/191230_2glgea1g5074dlf0f195g477fc44f_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mqe8cq",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mqe8cq&acm=3.ms.1_4_1mqe8cq.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_555383373_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTUzODMzNzNfNGY4ZV8wXzBfMF8zMjRfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200221_404falkhhddki6h9l4b6i0f264j9f_2000x3000.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200221_404falkhhddki6h9l4b6i0f264j9f_2000x3000.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mqe8cq&acm=3.ms.1_4_1mqe8cq.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_555383373_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTUzODMzNzNfNGY4ZV8wXzBfMF8zMjRfMV8zX2xvYy0w",
+                    "itemMarks": "1019",
+                    "acm": "3.ms.1_4_1mqe8cq.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_555383373_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "2020春季新款韩版百搭基础款宽松长袖t恤打底衫女学生上衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTUzODMzNzNfNGY4ZV8wXzBfMF8zMjRfMV8zX2xvYy0w",
+                    "orgPrice": "¥155",
+                    "props": [
+                        "2020春季新款韩版百搭基础款宽松长袖t恤打底衫女学生上衣"
+                    ],
+                    "onShelfTime": 1582216147,
+                    "hasSimilarity": true,
+                    "sale": 7,
+                    "cfav": 419,
+                    "price": "¥55",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mqe8cq&acm=3.ms.1_4_1mqe8cq.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_555383373_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200221_404falkhhddki6h9l4b6i0f264j9f_2000x3000.jpg"
+                },
+                {
+                    "itemType": 7,
+                    "iid": "1n24d5y",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1n24d5y&acm=3.ms.1_1_1n24d5y.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609088756_0_3_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazZkajJ5XzNkNTVhMWE3Yjc0NGU5Zjc1YjcyN2E3OGRlNDAzYmM0XzE2XzJfNjA5MDg4NzU2XzRmODZfMF8zXzBfMzM3XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211008_650b620ie6h9eaa27hhhl3g2a0e76_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211008_650b620ie6h9eaa27hhhl3g2a0e76_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1n24d5y&acm=3.ms.1_1_1n24d5y.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609088756_0_3_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazZkajJ5XzNkNTVhMWE3Yjc0NGU5Zjc1YjcyN2E3OGRlNDAzYmM0XzE2XzJfNjA5MDg4NzU2XzRmODZfMF8zXzBfMzM3XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "itemMarks": "1854 1270",
+                    "acm": "3.ms.1_1_1n24d5y.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609088756_0_3_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0",
+                    "title": "羊羔绒加厚棉服女中长款过膝冬韩版ins港风宽松加绒派克棉衣外",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xazZkajJ5XzNkNTVhMWE3Yjc0NGU5Zjc1YjcyN2E3OGRlNDAzYmM0XzE2XzJfNjA5MDg4NzU2XzRmODZfMF8zXzBfMzM3XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "orgPrice": "¥284.29",
+                    "props": [
+                        "羊羔绒加厚棉服女中长款过膝冬韩版ins港风宽松加绒派克棉衣外"
+                    ],
+                    "onShelfTime": 1633708416,
+                    "hasSimilarity": true,
+                    "sale": 33,
+                    "cfav": 164,
+                    "price": "¥199",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1n24d5y&acm=3.ms.1_1_1n24d5y.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609088756_0_3_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&itemType=7&imgSurl=/mlcdn/55cf19/211008_650b620ie6h9eaa27hhhl3g2a0e76_640x960.jpg"
+                },
+                {
+                    "itemType": 7,
+                    "iid": "1n2zgo8",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2zgo8&acm=3.ms.1_1_1n2zgo8.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_610016209_0_4_0-src_0-pid_180-c1_50019_nil_nil_0_0_41_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazV0czVlX2YwZWUwZDA2YWNlZmU4ZDA4NWIyZjVlMmZjNTJlYTkwXzE2XzNfNjEwMDE2MjA5XzQ5OGZfMF80XzBfNDgwXzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/211215_8dbdgd82316527egck94gk80k1gh6_800x800.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/211215_8dbdgd82316527egck94gk80k1gh6_800x800.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2zgo8&acm=3.ms.1_1_1n2zgo8.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_610016209_0_4_0-src_0-pid_180-c1_50019_nil_nil_0_0_41_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazV0czVlX2YwZWUwZDA2YWNlZmU4ZDA4NWIyZjVlMmZjNTJlYTkwXzE2XzNfNjEwMDE2MjA5XzQ5OGZfMF80XzBfNDgwXzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "itemMarks": "1854",
+                    "acm": "3.ms.1_1_1n2zgo8.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_610016209_0_4_0-src_0-pid_180-c1_50019_nil_nil_0_0_41_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0",
+                    "title": "双面德绒一体加绒高领洋气打底衫女秋冬新款长袖修身百搭保暖上衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xazV0czVlX2YwZWUwZDA2YWNlZmU4ZDA4NWIyZjVlMmZjNTJlYTkwXzE2XzNfNjEwMDE2MjA5XzQ5OGZfMF80XzBfNDgwXzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "orgPrice": "¥84.29",
+                    "props": [
+                        "双面德绒一体加绒高领洋气打底衫女秋冬新款长袖修身百搭保暖上衣"
+                    ],
+                    "onShelfTime": 1639505694,
+                    "hasSimilarity": true,
+                    "sale": 15,
+                    "cfav": 7,
+                    "price": "¥59",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1n2zgo8&acm=3.ms.1_1_1n2zgo8.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_610016209_0_4_0-src_0-pid_180-c1_50019_nil_nil_0_0_41_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&itemType=7&imgSurl=/mlcdn/c45406/211215_8dbdgd82316527egck94gk80k1gh6_800x800.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mvfr3m",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvfr3m&acm=3.ms.1_4_1mvfr3m.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_586063452_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODYwNjM0NTJfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200812_4febg92648gbg2i07c6fd464523bk_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200812_4febg92648gbg2i07c6fd464523bk_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvfr3m&acm=3.ms.1_4_1mvfr3m.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_586063452_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODYwNjM0NTJfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1854 3002 71001 3001",
+                    "acm": "3.ms.1_4_1mvfr3m.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_586063452_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "早春风衣外套女2021年新款韩版宽松百搭中长款赫本风秋装大衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODYwNjM0NTJfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "orgPrice": "¥156.72",
+                    "props": [
+                        "早春风衣外套女2021年新款韩版宽松百搭中长款赫本风秋装大衣"
+                    ],
+                    "onShelfTime": 1597243207,
+                    "hasSimilarity": true,
+                    "sale": 0,
+                    "cfav": 1003,
+                    "price": "¥109.7",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mvfr3m&acm=3.ms.1_4_1mvfr3m.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_586063452_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200812_4febg92648gbg2i07c6fd464523bk_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mrlav2",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mrlav2&acm=3.ms.1_4_1mrlav2.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_563122394_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NjMxMjIzOTRfNGY4Zl8wXzBfMF8yMjdfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200330_1laggd796f694i07h737b7dc9j081_3332x4999.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200330_1laggd796f694i07h737b7dc9j081_3332x4999.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mrlav2&acm=3.ms.1_4_1mrlav2.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_563122394_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NjMxMjIzOTRfNGY4Zl8wXzBfMF8yMjdfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1854 3002 3001",
+                    "acm": "3.ms.1_4_1mrlav2.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_563122394_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "韩版网红粉色撞色小西装外套女英伦风宽松正装秋装新款潮休闲西服",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NjMxMjIzOTRfNGY4Zl8wXzBfMF8yMjdfMV8zX2xvYy0w",
+                    "orgPrice": "¥140",
+                    "props": [
+                        "韩版网红粉色撞色小西装外套女英伦风宽松正装秋装新款潮休闲西服"
+                    ],
+                    "onShelfTime": 1585503885,
+                    "hasSimilarity": true,
+                    "sale": 4,
+                    "cfav": 2447,
+                    "price": "¥98",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mrlav2&acm=3.ms.1_4_1mrlav2.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_563122394_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200330_1laggd796f694i07h737b7dc9j081_3332x4999.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mvsgok",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvsgok&acm=3.ms.1_4_1mvsgok.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_602487814_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF82MDI0ODc4MTRfNGY4YV8wXzBfMF8xNDdfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/200901_5a70795b31bbfbfb294k92a5cdb0c_640x962.png_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/200901_5a70795b31bbfbfb294k92a5cdb0c_640x962.png_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvsgok&acm=3.ms.1_4_1mvsgok.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_602487814_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF82MDI0ODc4MTRfNGY4YV8wXzBfMF8xNDdfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1080 1019 1854",
+                    "acm": "3.ms.1_4_1mvsgok.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_602487814_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "短款小西装女外套春秋2020新款韩版卡其色设计感炸街西服上衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF82MDI0ODc4MTRfNGY4YV8wXzBfMF8xNDdfMV8zX2xvYy0w",
+                    "orgPrice": "¥70",
+                    "props": [
+                        "短款小西装女外套春秋2020新款韩版卡其色设计感炸街西服上衣"
+                    ],
+                    "onShelfTime": 1599298771,
+                    "hasSimilarity": true,
+                    "sale": 12,
+                    "cfav": 371,
+                    "price": "¥49",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mvsgok&acm=3.ms.1_4_1mvsgok.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_602487814_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/55cf19/200901_5a70795b31bbfbfb294k92a5cdb0c_640x962.png"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mqfky8",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mqfky8&acm=3.ms.1_4_1mqfky8.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_556111062_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTYxMTEwNjJfNGVfMF8wXzBfMjY4XzFfM19sb2MtMA==",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200222_28gfj9h1ch49074g1jc39l96e1897_5251x6999.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200222_28gfj9h1ch49074g1jc39l96e1897_5251x6999.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mqfky8&acm=3.ms.1_4_1mqfky8.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_556111062_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTYxMTEwNjJfNGVfMF8wXzBfMjY4XzFfM19sb2MtMA==",
+                    "itemMarks": "1854",
+                    "acm": "3.ms.1_4_1mqfky8.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_556111062_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "60两件短款卫衣女春秋韩版学生休闲宽松圆领长袖t恤短款上衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTYxMTEwNjJfNGVfMF8wXzBfMjY4XzFfM19sb2MtMA==",
+                    "orgPrice": "¥99",
+                    "props": [
+                        "60两件短款卫衣女春秋韩版学生休闲宽松圆领长袖t恤短款上衣"
+                    ],
+                    "onShelfTime": 1582374970,
+                    "hasSimilarity": true,
+                    "sale": 5,
+                    "cfav": 1920,
+                    "price": "¥39.9",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mqfky8&acm=3.ms.1_4_1mqfky8.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_556111062_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200222_28gfj9h1ch49074g1jc39l96e1897_5251x6999.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mvp2p0",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvp2p0&acm=3.ms.1_4_1mvp2p0.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_588093178_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODgwOTMxNzhfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200826_6i4b49je5j7814gcd563b9c097afh_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200826_6i4b49je5j7814gcd563b9c097afh_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvp2p0&acm=3.ms.1_4_1mvp2p0.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_588093178_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODgwOTMxNzhfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1854 3002 3001",
+                    "acm": "3.ms.1_4_1mvp2p0.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_588093178_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "复古设计感小众白衬衫女秋季时尚休闲上衣宽松长袖牛仔衬衣外套潮",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODgwOTMxNzhfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "orgPrice": "¥85.29",
+                    "props": [
+                        "复古设计感小众白衬衫女秋季时尚休闲上衣宽松长袖牛仔衬衣外套潮"
+                    ],
+                    "onShelfTime": 1598443047,
+                    "hasSimilarity": true,
+                    "sale": 23,
+                    "cfav": 2071,
+                    "price": "¥59.7",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mvp2p0&acm=3.ms.1_4_1mvp2p0.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_588093178_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200826_6i4b49je5j7814gcd563b9c097afh_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mabwaw",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mabwaw&acm=3.ms.1_4_1mabwaw.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_460671532_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF80NjA2NzE1MzJfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181024_72bfj2c7g6kca681b5e560g6ihe0g_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181024_72bfj2c7g6kca681b5e560g6ihe0g_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mabwaw&acm=3.ms.1_4_1mabwaw.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_460671532_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF80NjA2NzE1MzJfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1854 3002 3001 1270",
+                    "acm": "3.ms.1_4_1mabwaw.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_460671532_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "慵懒风灯笼袖半高领纯色针织衫毛衣女套头宽松百搭短款加厚毛线衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF80NjA2NzE1MzJfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "orgPrice": "¥71.42",
+                    "props": [
+                        "慵懒风灯笼袖半高领纯色针织衫毛衣女套头宽松百搭短款加厚毛线衣"
+                    ],
+                    "onShelfTime": 1540358618,
+                    "hasSimilarity": true,
+                    "sale": 4,
+                    "cfav": 1643,
+                    "price": "¥49.99",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mabwaw&acm=3.ms.1_4_1mabwaw.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_460671532_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/181024_72bfj2c7g6kca681b5e560g6ihe0g_640x960.jpg"
+                },
+                {
+                    "itemType": 7,
+                    "iid": "1n2ga8g",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2ga8g&acm=3.ms.1_1_1n2ga8g.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609555525_0_5_0-src_0-pid_180-c1_50019_nil_nil_0_0_43_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazZhN2dlX2NlNzI2ZjNiMjViMTg4MzAyMzIzZTUzZmM1NWU0MGQ2XzE2XzRfNjA5NTU1NTI1XzQ5OGRfMF81XzBfNDgwXzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211103_2db3al93gg7772gc1b5h7hba6dla9_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211103_2db3al93gg7772gc1b5h7hba6dla9_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2ga8g&acm=3.ms.1_1_1n2ga8g.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609555525_0_5_0-src_0-pid_180-c1_50019_nil_nil_0_0_43_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazZhN2dlX2NlNzI2ZjNiMjViMTg4MzAyMzIzZTUzZmM1NWU0MGQ2XzE2XzRfNjA5NTU1NTI1XzQ5OGRfMF81XzBfNDgwXzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "itemMarks": "1854",
+                    "acm": "3.ms.1_1_1n2ga8g.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609555525_0_5_0-src_0-pid_180-c1_50019_nil_nil_0_0_43_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0",
+                    "title": "加绒/不加绒秋冬新款半高领丝绒打底衫内搭长袖t恤女洋气保暖小",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xazZhN2dlX2NlNzI2ZjNiMjViMTg4MzAyMzIzZTUzZmM1NWU0MGQ2XzE2XzRfNjA5NTU1NTI1XzQ5OGRfMF81XzBfNDgwXzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "orgPrice": "¥55.72",
+                    "props": [
+                        "加绒/不加绒秋冬新款半高领丝绒打底衫内搭长袖t恤女洋气保暖小"
+                    ],
+                    "onShelfTime": 1635872255,
+                    "hasSimilarity": true,
+                    "sale": 9,
+                    "cfav": 8,
+                    "price": "¥39",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1n2ga8g&acm=3.ms.1_1_1n2ga8g.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609555525_0_5_0-src_0-pid_180-c1_50019_nil_nil_0_0_43_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&itemType=7&imgSurl=/mlcdn/55cf19/211103_2db3al93gg7772gc1b5h7hba6dla9_640x960.jpg"
+                },
+                {
+                    "itemType": 7,
+                    "iid": "1n2rr22",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2rr22&acm=3.ms.1_1_1n2rr22.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609938691_0_6_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazV5ZWUyXzc2OGQ3ZWNiNjkyMDhjMDg5ZDk1YmIwNWQzYjZlMTdkXzE2XzVfNjA5OTM4NjkxXzRlOGZfMF82XzBfNDgwXzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211203_35gdiib3c1b70b21ik83kia345kff_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211203_35gdiib3c1b70b21ik83kia345kff_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2rr22&acm=3.ms.1_1_1n2rr22.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609938691_0_6_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazV5ZWUyXzc2OGQ3ZWNiNjkyMDhjMDg5ZDk1YmIwNWQzYjZlMTdkXzE2XzVfNjA5OTM4NjkxXzRlOGZfMF82XzBfNDgwXzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "itemMarks": "1854",
+                    "acm": "3.ms.1_1_1n2rr22.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609938691_0_6_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0",
+                    "title": "毛衣裙子冬天穿的冬裙2021新款小个子气质内搭打底冬季针织连",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xazV5ZWUyXzc2OGQ3ZWNiNjkyMDhjMDg5ZDk1YmIwNWQzYjZlMTdkXzE2XzVfNjA5OTM4NjkxXzRlOGZfMF82XzBfNDgwXzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "orgPrice": "¥127.15",
+                    "props": [
+                        "毛衣裙子冬天穿的冬裙2021新款小个子气质内搭打底冬季针织连"
+                    ],
+                    "onShelfTime": 1638551190,
+                    "hasSimilarity": true,
+                    "sale": 6,
+                    "cfav": 58,
+                    "price": "¥89",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1n2rr22&acm=3.ms.1_1_1n2rr22.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609938691_0_6_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&itemType=7&imgSurl=/mlcdn/55cf19/211203_35gdiib3c1b70b21ik83kia345kff_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mudrhi",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mudrhi&acm=3.ms.1_4_1mudrhi.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_602945626_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF82MDI5NDU2MjZfNGY4Zl8wXzBfMF85NzlfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200623_5hf9j0ihi2if37e9hjlbh5f22gef8_900x1200.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200623_5hf9j0ihi2if37e9hjlbh5f22gef8_900x1200.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mudrhi&acm=3.ms.1_4_1mudrhi.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_602945626_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF82MDI5NDU2MjZfNGY4Zl8wXzBfMF85NzlfMV8zX2xvYy0w",
+                    "itemMarks": "1019 1854 3002 3001",
+                    "acm": "3.ms.1_4_1mudrhi.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_602945626_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "2021新款反季清仓羽绒服女中长款韩版收腰加厚过膝白鸭绒外套",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF82MDI5NDU2MjZfNGY4Zl8wXzBfMF85NzlfMV8zX2xvYy0w",
+                    "orgPrice": "¥313",
+                    "props": [
+                        "2021新款反季清仓羽绒服女中长款韩版收腰加厚过膝白鸭绒外套"
+                    ],
+                    "onShelfTime": 1592896464,
+                    "hasSimilarity": true,
+                    "sale": 2,
+                    "cfav": 1617,
+                    "price": "¥219.1",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mudrhi&acm=3.ms.1_4_1mudrhi.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_602945626_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200623_5hf9j0ihi2if37e9hjlbh5f22gef8_900x1200.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mjx2lk",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjx2lk&acm=3.ms.1_4_1mjx2lk.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_517747761_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81MTc3NDc3NjFfNGY4Zl8wXzBfMF8yMjdfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190807_8g9l87bidgiib39lk7b225hcbef9k_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190807_8g9l87bidgiib39lk7b225hcbef9k_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjx2lk&acm=3.ms.1_4_1mjx2lk.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_517747761_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81MTc3NDc3NjFfNGY4Zl8wXzBfMF8yMjdfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1854 189",
+                    "acm": "3.ms.1_4_1mjx2lk.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_517747761_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "送裹胸秋装新款韩版后背透视打底衫百搭宽松防晒中长款长袖衬衫女",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81MTc3NDc3NjFfNGY4Zl8wXzBfMF8yMjdfMV8zX2xvYy0w",
+                    "orgPrice": "¥85",
+                    "props": [
+                        "送裹胸秋装新款韩版后背透视打底衫百搭宽松防晒中长款长袖衬衫女"
+                    ],
+                    "onShelfTime": 1565164543,
+                    "hasSimilarity": true,
+                    "sale": 4,
+                    "cfav": 2074,
+                    "price": "¥49.3",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mjx2lk&acm=3.ms.1_4_1mjx2lk.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_517747761_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/190807_8g9l87bidgiib39lk7b225hcbef9k_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mej0pc",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mej0pc&acm=3.ms.1_4_1mej0pc.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_486338019_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF80ODYzMzgwMTlfNGY4Zl8wXzBfMF81NDVfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190313_5d65jl68291a4dechca724868bd8e_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190313_5d65jl68291a4dechca724868bd8e_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mej0pc&acm=3.ms.1_4_1mej0pc.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_486338019_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF80ODYzMzgwMTlfNGY4Zl8wXzBfMF81NDVfMV8zX2xvYy0w",
+                    "itemMarks": "188",
+                    "acm": "3.ms.1_4_1mej0pc.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_486338019_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "春装新款韩版宽松V领长袖t恤女装假两件打底衫春季百搭上衣潮",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF80ODYzMzgwMTlfNGY4Zl8wXzBfMF81NDVfMV8zX2xvYy0w",
+                    "orgPrice": "¥99",
+                    "props": [
+                        "春装新款韩版宽松V领长袖t恤女装假两件打底衫春季百搭上衣潮"
+                    ],
+                    "onShelfTime": 1552447495,
+                    "hasSimilarity": true,
+                    "sale": 9,
+                    "cfav": 1509,
+                    "price": "¥69.3",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mej0pc&acm=3.ms.1_4_1mej0pc.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_486338019_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/190313_5d65jl68291a4dechca724868bd8e_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mk51k4",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mk51k4&acm=3.ms.1_4_1mk51k4.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_519940711_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81MTk5NDA3MTFfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/190816_366j8ja2eb5kgi44188kke17dc4j5_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/190816_366j8ja2eb5kgi44188kke17dc4j5_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mk51k4&acm=3.ms.1_4_1mk51k4.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_519940711_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81MTk5NDA3MTFfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 188 1854 1270",
+                    "acm": "3.ms.1_4_1mk51k4.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_519940711_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "毛衣套头季韩版新款宽松V领拼色针织打底衫套头毛衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81MTk5NDA3MTFfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "orgPrice": "¥71.42",
+                    "props": [
+                        "毛衣套头季韩版新款宽松V领拼色针织打底衫套头毛衣"
+                    ],
+                    "onShelfTime": 1565938990,
+                    "hasSimilarity": true,
+                    "sale": 71,
+                    "cfav": 2105,
+                    "price": "¥49.99",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mk51k4&acm=3.ms.1_4_1mk51k4.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_519940711_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/55cf19/190816_366j8ja2eb5kgi44188kke17dc4j5_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mvwp5s",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvwp5s&acm=3.ms.1_4_1mvwp5s.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_589594173_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODk1OTQxNzNfNGY4Zl8wXzBfMF8xNV8xXzNfbG9jLTA=",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200906_20a4204hlk1d60b9jjf9064f9992i_800x800.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200906_20a4204hlk1d60b9jjf9064f9992i_800x800.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvwp5s&acm=3.ms.1_4_1mvwp5s.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_589594173_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODk1OTQxNzNfNGY4Zl8wXzBfMF8xNV8xXzNfbG9jLTA=",
+                    "itemMarks": "1525 1019 1854 3002 3001",
+                    "acm": "3.ms.1_4_1mvwp5s.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_589594173_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "洋气车厘子红色毛衣女春季外穿甜美可爱宽松韩版新年套头针织上衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODk1OTQxNzNfNGY4Zl8wXzBfMF8xNV8xXzNfbG9jLTA=",
+                    "orgPrice": "¥69",
+                    "props": [
+                        "洋气车厘子红色毛衣女春季外穿甜美可爱宽松韩版新年套头针织上衣"
+                    ],
+                    "onShelfTime": 1599370314,
+                    "hasSimilarity": true,
+                    "sale": 6,
+                    "cfav": 848,
+                    "price": "¥69",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mvwp5s&acm=3.ms.1_4_1mvwp5s.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_589594173_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200906_20a4204hlk1d60b9jjf9064f9992i_800x800.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mw4518",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mw4518&acm=3.ms.1_4_1mw4518.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_590436446_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81OTA0MzY0NDZfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200912_389k67bf9kd9322bjf63e7gi5jafd_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200912_389k67bf9kd9322bjf63e7gi5jafd_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mw4518&acm=3.ms.1_4_1mw4518.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_590436446_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81OTA0MzY0NDZfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1854 3002 3001",
+                    "acm": "3.ms.1_4_1mw4518.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_590436446_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "法式小众设计感气质收腰显瘦长袖衬衣女秋季新款韩版打底上衣小衫",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81OTA0MzY0NDZfNGY4ZV8wXzBfMF80NDdfMV8zX2xvYy0w",
+                    "orgPrice": "¥99.72",
+                    "props": [
+                        "法式小众设计感气质收腰显瘦长袖衬衣女秋季新款韩版打底上衣小衫"
+                    ],
+                    "onShelfTime": 1599917635,
+                    "hasSimilarity": true,
+                    "sale": 0,
+                    "cfav": 518,
+                    "price": "¥69.8",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mw4518&acm=3.ms.1_4_1mw4518.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_590436446_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200912_389k67bf9kd9322bjf63e7gi5jafd_640x960.jpg"
+                },
+                {
+                    "itemType": 7,
+                    "iid": "1n2e6v6",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2e6v6&acm=3.ms.1_1_1n2e6v6.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609663249_0_7_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazY4YTZjX2ZjMTdjZmJhMmQ3MGJjZTUwOGE3MmZlNjczY2RjODc2XzE2XzZfNjA5NjYzMjQ5XzRlOGZfMF83XzBfNTY1XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211027_7dkb35e00fj0f20kl47ifj91lhefa_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211027_7dkb35e00fj0f20kl47ifj91lhefa_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2e6v6&acm=3.ms.1_1_1n2e6v6.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609663249_0_7_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazY4YTZjX2ZjMTdjZmJhMmQ3MGJjZTUwOGE3MmZlNjczY2RjODc2XzE2XzZfNjA5NjYzMjQ5XzRlOGZfMF83XzBfNTY1XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "itemMarks": "1525 1019 1854 1270",
+                    "acm": "3.ms.1_1_1n2e6v6.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609663249_0_7_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0",
+                    "title": "泡泡袖毛呢外套女2021秋冬新款中长款宽松显瘦小个子温柔呢子",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xazY4YTZjX2ZjMTdjZmJhMmQ3MGJjZTUwOGE3MmZlNjczY2RjODc2XzE2XzZfNjA5NjYzMjQ5XzRlOGZfMF83XzBfNTY1XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "orgPrice": "¥284.29",
+                    "props": [
+                        "泡泡袖毛呢外套女2021秋冬新款中长款宽松显瘦小个子温柔呢子"
+                    ],
+                    "onShelfTime": 1635346342,
+                    "hasSimilarity": true,
+                    "sale": 73,
+                    "cfav": 32,
+                    "price": "¥199",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1n2e6v6&acm=3.ms.1_1_1n2e6v6.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609663249_0_7_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&itemType=7&imgSurl=/mlcdn/55cf19/211027_7dkb35e00fj0f20kl47ifj91lhefa_640x960.jpg"
+                },
+                {
+                    "itemType": 7,
+                    "iid": "1n2qusm",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2qusm&acm=3.ms.1_1_1n2qusm.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609893798_0_8_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazVreWQwXzA2Zjc2ODc0NmI5NmExMzc1NjY5ZjgzYzg0YjYyNDRhXzE2XzdfNjA5ODkzNzk4XzRlOGZfMF84XzBfOTQ1XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211130_0a78577cc4eci614ajjb6dikl1b8h_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211130_0a78577cc4eci614ajjb6dikl1b8h_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2qusm&acm=3.ms.1_1_1n2qusm.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609893798_0_8_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazVreWQwXzA2Zjc2ODc0NmI5NmExMzc1NjY5ZjgzYzg0YjYyNDRhXzE2XzdfNjA5ODkzNzk4XzRlOGZfMF84XzBfOTQ1XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "itemMarks": "1854",
+                    "acm": "3.ms.1_1_1n2qusm.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609893798_0_8_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0",
+                    "title": "2021新款仿羊剪绒大衣女中长款仿狐狸毛领连帽大码宽松皮草外",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xazVreWQwXzA2Zjc2ODc0NmI5NmExMzc1NjY5ZjgzYzg0YjYyNDRhXzE2XzdfNjA5ODkzNzk4XzRlOGZfMF84XzBfOTQ1XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "orgPrice": "¥327.15",
+                    "props": [
+                        "2021新款仿羊剪绒大衣女中长款仿狐狸毛领连帽大码宽松皮草外"
+                    ],
+                    "onShelfTime": 1638271964,
+                    "hasSimilarity": true,
+                    "sale": 19,
+                    "cfav": 57,
+                    "price": "¥229",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1n2qusm&acm=3.ms.1_1_1n2qusm.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609893798_0_8_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&itemType=7&imgSurl=/mlcdn/55cf19/211130_0a78577cc4eci614ajjb6dikl1b8h_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mw3yaq",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mw3yaq&acm=3.ms.1_4_1mw3yaq.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_590451582_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81OTA0NTE1ODJfNGY4Zl8wXzBfMF82NDBfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200912_5gd19h8j40b54id0glk90lh5l9a4c_4499x5999.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200912_5gd19h8j40b54id0glk90lh5l9a4c_4499x5999.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mw3yaq&acm=3.ms.1_4_1mw3yaq.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_590451582_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81OTA0NTE1ODJfNGY4Zl8wXzBfMF82NDBfMV8zX2xvYy0w",
+                    "itemMarks": "71001",
+                    "acm": "3.ms.1_4_1mw3yaq.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_590451582_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "风衣女中长款新款韩版女装外衣春装上衣宽松显瘦风衣薄款外套",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81OTA0NTE1ODJfNGY4Zl8wXzBfMF82NDBfMV8zX2xvYy0w",
+                    "orgPrice": "¥71.29",
+                    "props": [
+                        "风衣女中长款新款韩版女装外衣春装上衣宽松显瘦风衣薄款外套"
+                    ],
+                    "onShelfTime": 1599910728,
+                    "hasSimilarity": true,
+                    "sale": 2,
+                    "cfav": 543,
+                    "price": "¥49.9",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mw3yaq&acm=3.ms.1_4_1mw3yaq.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_590451582_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200912_5gd19h8j40b54id0glk90lh5l9a4c_4499x5999.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1lwwsse",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1lwwsse&acm=3.ms.1_4_1lwwsse.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_359729635_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF8zNTk3Mjk2MzVfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180411_7k0e5a38lalb3li85cfi7e6llc05l_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180411_7k0e5a38lalb3li85cfi7e6llc05l_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1lwwsse&acm=3.ms.1_4_1lwwsse.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_359729635_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF8zNTk3Mjk2MzVfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 77 188 1854 1210 1616",
+                    "acm": "3.ms.1_4_1lwwsse.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_359729635_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "2020新款百搭修身白色polo领上衣显瘦长袖衬衫女雪纺衬衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF8zNTk3Mjk2MzVfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "orgPrice": "¥71.42",
+                    "props": [
+                        "2020新款百搭修身白色polo领上衣显瘦长袖衬衫女雪纺衬衣"
+                    ],
+                    "onShelfTime": 1523383272,
+                    "hasSimilarity": true,
+                    "sale": 10,
+                    "cfav": 10906,
+                    "price": "¥49.99",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1lwwsse&acm=3.ms.1_4_1lwwsse.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_359729635_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/180411_7k0e5a38lalb3li85cfi7e6llc05l_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mve0xy",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mve0xy&acm=3.ms.1_4_1mve0xy.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_586720072_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODY3MjAwNzJfNGY4Y18wXzBfMF81MzFfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200810_2b7ag0cf0afk338c981a46dfc654j_5251x6999.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200810_2b7ag0cf0afk338c981a46dfc654j_5251x6999.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mve0xy&acm=3.ms.1_4_1mve0xy.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_586720072_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODY3MjAwNzJfNGY4Y18wXzBfMF81MzFfMV8zX2xvYy0w",
+                    "itemMarks": "1019 1854",
+                    "acm": "3.ms.1_4_1mve0xy.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_586720072_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "2021冬季棉衣女中长款韩版修身加厚棉服百搭显瘦棉袄外套",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODY3MjAwNzJfNGY4Y18wXzBfMF81MzFfMV8zX2xvYy0w",
+                    "orgPrice": "¥199",
+                    "props": [
+                        "2021冬季棉衣女中长款韩版修身加厚棉服百搭显瘦棉袄外套"
+                    ],
+                    "onShelfTime": 1597045604,
+                    "hasSimilarity": true,
+                    "sale": 6,
+                    "cfav": 260,
+                    "price": "¥109",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mve0xy&acm=3.ms.1_4_1mve0xy.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_586720072_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200810_2b7ag0cf0afk338c981a46dfc654j_5251x6999.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1ml554y",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1ml554y&acm=3.ms.1_4_1ml554y.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/191022_8106liih3eeg5g723e46hi39aai7g_800x1200.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/191022_8106liih3eeg5g723e46hi39aai7g_800x1200.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1ml554y&acm=3.ms.1_4_1ml554y.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "itemMarks": "1019 1080 188 1854 3002 3001 21811",
+                    "acm": "3.ms.1_4_1ml554y.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "豆绿色棉服女中长款冬季2021新款学生面包服加厚棉袄棉衣外套",
+                    "type": 2,
+                    "orgPrice": "¥357",
+                    "props": [
+                        "豆绿色棉服女中长款冬季2021新款学生面包服加厚棉袄棉衣外套"
+                    ],
+                    "onShelfTime": 1569376702,
+                    "hasSimilarity": true,
+                    "sale": 13,
+                    "cfav": 1177,
+                    "price": "¥249",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1ml554y&acm=3.ms.1_4_1ml554y.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/191022_8106liih3eeg5g723e46hi39aai7g_800x1200.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1m73x78",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1m73x78&acm=3.ms.1_4_1m73x78.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180810_260g6keg3l5fk4864f370i99f4242_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180810_260g6keg3l5fk4864f370i99f4242_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1m73x78&acm=3.ms.1_4_1m73x78.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "itemMarks": "1525 1854",
+                    "acm": "3.ms.1_4_1m73x78.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "小个子毛呢外套女短款秋冬季新款气质宽松显瘦斗篷小香风呢子大衣",
+                    "type": 2,
+                    "orgPrice": "¥282.86",
+                    "props": [
+                        "小个子毛呢外套女短款秋冬季新款气质宽松显瘦斗篷小香风呢子大衣"
+                    ],
+                    "onShelfTime": 1533904184,
+                    "hasSimilarity": true,
+                    "sale": 1,
+                    "cfav": 1333,
+                    "price": "¥198",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1m73x78&acm=3.ms.1_4_1m73x78.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/180810_260g6keg3l5fk4864f370i99f4242_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mkxisu",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mkxisu&acm=3.ms.1_4_1mkxisu.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_526429883_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81MjY0Mjk4ODNfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/190912_7chg17lgj0ec9hd6h44ka9fl3jkfd_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/190912_7chg17lgj0ec9hd6h44ka9fl3jkfd_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mkxisu&acm=3.ms.1_4_1mkxisu.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_526429883_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81MjY0Mjk4ODNfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1080 1019 188 1854 299 3002 3001",
+                    "acm": "3.ms.1_4_1mkxisu.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_526429883_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "长袖雪纺衬衫女设计感小众复古港味衬衣上衣轻熟",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81MjY0Mjk4ODNfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "orgPrice": "¥71.42",
+                    "props": [
+                        "长袖雪纺衬衫女设计感小众复古港味衬衣上衣轻熟"
+                    ],
+                    "onShelfTime": 1568274248,
+                    "hasSimilarity": true,
+                    "sale": 11,
+                    "cfav": 1297,
+                    "price": "¥49.99",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mkxisu&acm=3.ms.1_4_1mkxisu.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_526429883_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/55cf19/190912_7chg17lgj0ec9hd6h44ka9fl3jkfd_640x960.jpg"
+                },
+                {
+                    "itemType": 7,
+                    "iid": "1n2b6t4",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2b6t4&acm=3.ms.1_1_1n2b6t4.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609349598_0_9_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazY3YnhhXzMzM2Y5OTUzYzViODQ4NmIwZmMxYWVmZDM4ZGIyZDNiXzE2XzhfNjA5MzQ5NTk4XzRmODZfMF85XzBfNDg4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211021_2febj84hh0g6kih9ccg885d32j922_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211021_2febj84hh0g6kih9ccg885d32j922_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2b6t4&acm=3.ms.1_1_1n2b6t4.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609349598_0_9_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xazY3YnhhXzMzM2Y5OTUzYzViODQ4NmIwZmMxYWVmZDM4ZGIyZDNiXzE2XzhfNjA5MzQ5NTk4XzRmODZfMF85XzBfNDg4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "itemMarks": "1854 1270",
+                    "acm": "3.ms.1_1_1n2b6t4.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609349598_0_9_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0",
+                    "title": "中长款羽绒服2021新款爆款女装网红矮个子冬季白鸭绒韩版加厚",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xazY3YnhhXzMzM2Y5OTUzYzViODQ4NmIwZmMxYWVmZDM4ZGIyZDNiXzE2XzhfNjA5MzQ5NTk4XzRmODZfMF85XzBfNDg4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "orgPrice": "¥285",
+                    "props": [
+                        "中长款羽绒服2021新款爆款女装网红矮个子冬季白鸭绒韩版加厚"
+                    ],
+                    "onShelfTime": 1634755901,
+                    "hasSimilarity": true,
+                    "sale": 14,
+                    "cfav": 42,
+                    "price": "¥199",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1n2b6t4&acm=3.ms.1_1_1n2b6t4.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609349598_0_9_0-src_0-pid_180-c1_50019_nil_nil_0_0_30_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&itemType=7&imgSurl=/mlcdn/55cf19/211021_2febj84hh0g6kih9ccg885d32j922_640x960.jpg"
+                },
+                {
+                    "itemType": 7,
+                    "iid": "1n2otbw",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2otbw&acm=3.ms.1_1_1n2otbw.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609871603_0_10_0-src_0-pid_180-c1_50019_nil_nil_0_0_38_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfOV82MDk4NzE2MDNfNGU4N18wXzEwXzBfMjQ0XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211124_116c20fekelc1610iecjlag7h2fhh_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/55cf19/211124_116c20fekelc1610iecjlag7h2fhh_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1n2otbw&acm=3.ms.1_1_1n2otbw.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609871603_0_10_0-src_0-pid_180-c1_50019_nil_nil_0_0_38_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfOV82MDk4NzE2MDNfNGU4N18wXzEwXzBfMjQ0XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "itemMarks": "1854 1270",
+                    "acm": "3.ms.1_1_1n2otbw.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609871603_0_10_0-src_0-pid_180-c1_50019_nil_nil_0_0_38_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0",
+                    "title": "加绒/不加绒新款女士加厚毛衣女宽松外穿半高领打底衫秋冬",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfOV82MDk4NzE2MDNfNGU4N18wXzEwXzBfMjQ0XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                    "orgPrice": "¥98.58",
+                    "props": [
+                        "加绒/不加绒新款女士加厚毛衣女宽松外穿半高领打底衫秋冬"
+                    ],
+                    "onShelfTime": 1637849935,
+                    "hasSimilarity": true,
+                    "sale": 14,
+                    "cfav": 17,
+                    "price": "¥69",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1n2otbw&acm=3.ms.1_1_1n2otbw.17.96894-68998.rpcoLsUnB0K1Y.c_2_16_609871603_0_10_0-src_0-pid_180-c1_50019_nil_nil_0_0_38_0-dit_-ct_4101-sd_117-swt_17-imt_7-t_rpcoLsUnB0K1Y-lc_16-fcid_50019-pit_2-qpdp_0&itemType=7&imgSurl=/mlcdn/55cf19/211124_116c20fekelc1610iecjlag7h2fhh_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mvqoqy",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvqoqy&acm=3.ms.1_4_1mvqoqy.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_588553958_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODg1NTM5NThfNGNfMF8wXzBfNzI2XzFfM19sb2MtMA==",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200829_3ge23aie11hi27a10g950ki6al2ag_4999x6663.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200829_3ge23aie11hi27a10g950ki6al2ag_4999x6663.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvqoqy&acm=3.ms.1_4_1mvqoqy.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_588553958_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODg1NTM5NThfNGNfMF8wXzBfNzI2XzFfM19sb2MtMA==",
+                    "itemMarks": "-1",
+                    "acm": "3.ms.1_4_1mvqoqy.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_588553958_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "秋季新款学生韩版洋气宽松百搭原宿风棒球服连帽工装外套ins潮",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODg1NTM5NThfNGNfMF8wXzBfNzI2XzFfM19sb2MtMA==",
+                    "orgPrice": "¥85.58",
+                    "props": [
+                        "秋季新款学生韩版洋气宽松百搭原宿风棒球服连帽工装外套ins潮"
+                    ],
+                    "onShelfTime": 1598678443,
+                    "hasSimilarity": true,
+                    "sale": 1,
+                    "cfav": 77,
+                    "price": "¥59.9",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mvqoqy&acm=3.ms.1_4_1mvqoqy.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_588553958_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200829_3ge23aie11hi27a10g950ki6al2ag_4999x6663.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1kp9exe",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1kp9exe&acm=3.ms.1_4_1kp9exe.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/171031_555jkkh5ecd2gj6jg304bckkg9lid_800x1200.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/171031_555jkkh5ecd2gj6jg304bckkg9lid_800x1200.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1kp9exe&acm=3.ms.1_4_1kp9exe.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "itemMarks": "1525 1019 188 61",
+                    "acm": "3.ms.1_4_1kp9exe.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "ZIQING子晴中长款羊毛双面呢大衣",
+                    "type": 2,
+                    "orgPrice": "¥825",
+                    "props": [
+                        "ZIQING子晴中长款羊毛双面呢大衣"
+                    ],
+                    "onShelfTime": 1509444539,
+                    "hasSimilarity": true,
+                    "sale": 2,
+                    "cfav": 402,
+                    "price": "¥825",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1kp9exe&acm=3.ms.1_4_1kp9exe.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/171031_555jkkh5ecd2gj6jg304bckkg9lid_800x1200.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mvrnls",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvrnls&acm=3.ms.1_4_1mvrnls.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200830_0fa8214dc7g2aj2fjec7ifl75a3kk_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200830_0fa8214dc7g2aj2fjec7ifl75a3kk_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvrnls&acm=3.ms.1_4_1mvrnls.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "itemMarks": "1525 1019 1854 1270",
+                    "acm": "3.ms.1_4_1mvrnls.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "派克棉服女2020新款冬季棉衣中长款棉袄外套",
+                    "type": 2,
+                    "orgPrice": "¥226.86",
+                    "props": [
+                        "派克棉服女2020新款冬季棉衣中长款棉袄外套"
+                    ],
+                    "onShelfTime": 1598794224,
+                    "hasSimilarity": true,
+                    "sale": 80,
+                    "cfav": 555,
+                    "price": "¥158.8",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mvrnls&acm=3.ms.1_4_1mvrnls.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200830_0fa8214dc7g2aj2fjec7ifl75a3kk_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mrao7s",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mrao7s&acm=3.ms.1_4_1mrao7s.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_561318164_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NjEzMTgxNjRfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200322_43i067klhkd6dhfhf8k4454kg512k_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200322_43i067klhkd6dhfhf8k4454kg512k_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mrao7s&acm=3.ms.1_4_1mrao7s.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_561318164_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NjEzMTgxNjRfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1854",
+                    "acm": "3.ms.1_4_1mrao7s.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_561318164_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "白衬衫女2021早春新款时尚洋气设计感小众长袖打底雪纺衬衣潮",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NjEzMTgxNjRfNGY4ZV8wXzBfMF81NjVfMV8zX2xvYy0w",
+                    "orgPrice": "¥71.42",
+                    "props": [
+                        "白衬衫女2021早春新款时尚洋气设计感小众长袖打底雪纺衬衣潮"
+                    ],
+                    "onShelfTime": 1584862355,
+                    "hasSimilarity": true,
+                    "sale": 9,
+                    "cfav": 1249,
+                    "price": "¥49.99",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mrao7s&acm=3.ms.1_4_1mrao7s.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_561318164_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200322_43i067klhkd6dhfhf8k4454kg512k_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mq8b40",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mq8b40&acm=3.ms.1_4_1mq8b40.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_554834874_0_0_3-t_rpcoLsUnB0K1Y-src_1-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTQ4MzQ4NzRfNGY4Zl8wXzBfMF83OTdfMV8zX2xvYy0w",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200210_4ce833bbhfbi4kkga4039k0bkad58_640x960.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200210_4ce833bbhfbi4kkga4039k0bkad58_640x960.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mq8b40&acm=3.ms.1_4_1mq8b40.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_554834874_0_0_3-t_rpcoLsUnB0K1Y-src_1-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTQ4MzQ4NzRfNGY4Zl8wXzBfMF83OTdfMV8zX2xvYy0w",
+                    "itemMarks": "1525 1019 1091 1106 1854 1088 1270",
+                    "acm": "3.ms.1_4_1mq8b40.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_554834874_0_0_3-t_rpcoLsUnB0K1Y-src_1-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "2021秋季新款刺绣字母宽松韩版时尚上衣卫衣百搭T恤女连帽",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81NTQ4MzQ4NzRfNGY4Zl8wXzBfMF83OTdfMV8zX2xvYy0w",
+                    "orgPrice": "¥85",
+                    "props": [
+                        "2021秋季新款刺绣字母宽松韩版时尚上衣卫衣百搭T恤女连帽"
+                    ],
+                    "onShelfTime": 1581328813,
+                    "hasSimilarity": true,
+                    "sale": 3,
+                    "cfav": 824,
+                    "price": "¥59.5",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mq8b40&acm=3.ms.1_4_1mq8b40.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_554834874_0_0_3-t_rpcoLsUnB0K1Y-src_1-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200210_4ce833bbhfbi4kkga4039k0bkad58_640x960.jpg"
+                },
+                {
+                    "itemType": 6,
+                    "iid": "1mvx2gc",
+                    "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvx2gc&acm=3.ms.1_4_1mvx2gc.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_589853694_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODk4NTM2OTRfNGY4Zl8wXzBfMF8xMDIxXzFfM19sb2MtMA==",
+                    "showLarge": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200907_3jljac372k26156b18kff981dlj0a_800x800.jpg_560x999.jpg",
+                        "w": 560
+                    },
+                    "show": {
+                        "h": 999,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/200907_3jljac372k26156b18kff981dlj0a_800x800.jpg_320x999.jpg",
+                        "w": 320
+                    },
+                    "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvx2gc&acm=3.ms.1_4_1mvx2gc.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_589853694_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&cparam=MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODk4NTM2OTRfNGY4Zl8wXzBfMF8xMDIxXzFfM19sb2MtMA==",
+                    "itemMarks": "1019 1854 3002 3001",
+                    "acm": "3.ms.1_4_1mvx2gc.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_589853694_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0",
+                    "title": "半高领毛衣套头女打底衫秋冬2021新款宽松慵懒风百搭网红上衣",
+                    "type": 2,
+                    "cparam": "MTY0MjA1ODcxMV8xMWtfOTJhNjAzYWRmOGNjNTQzYzMwNTNjZWU1NjI5M2I2NmNfMTZfMF81ODk4NTM2OTRfNGY4Zl8wXzBfMF8xMDIxXzFfM19sb2MtMA==",
+                    "orgPrice": "¥79",
+                    "props": [
+                        "半高领毛衣套头女打底衫秋冬2021新款宽松慵懒风百搭网红上衣"
+                    ],
+                    "onShelfTime": 1599441144,
+                    "hasSimilarity": true,
+                    "sale": 0,
+                    "cfav": 379,
+                    "price": "¥79",
+                    "similarityUrl": "https://act.mogu.com/adlearn/shangpinzhaoxiangsi?imgItemId=1mvx2gc&acm=3.ms.1_4_1mvx2gc.17.5037-68998.rpcoLsUnB0K1Y.sd_117-swt_17-imt_6-c_1_16_589853694_0_0_3-t_rpcoLsUnB0K1Y-src_0-lc_16-fcid_50019-pid_180-pit_1-dit_-qpdp_0&itemType=6&imgSurl=/mlcdn/c45406/200907_3jljac372k26156b18kff981dlj0a_800x800.jpg"
+                }
+            ],
+            "isEnd": false
+        },
+        "cookieValue": "eyJfVERlUGFyYW0iOiIxLUNlaU5RK09zNlRNQjNYMnR3N1U2MXcifQ=="
+    },
+    "success": true
+}

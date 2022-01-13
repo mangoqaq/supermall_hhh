@@ -1,5 +1,5 @@
 <template>
-  <tab-bar>
+  <tab-bar class="tab-bar-index">
     <tab-bar-item path="/home">
       <img slot="item-icon" src="~assets/img/tabbar/home.svg" alt="首页">
       <img slot="item-icon-active" src="~assets/img/tabbar/home_active.svg" alt="首页">
@@ -36,4 +36,7 @@
 </script>
 
 <style>
+.tab-bar-index{
+  z-index: 10;
+}
 </style>
