@@ -9,12 +9,11 @@ export function getHomeMultidata() {
 }
 
 
-export function getHomeGoods(sort, page) {
-  return request_mogu({
-    url: '/search',
-    method: 'get',
+export function getHomeGoods(type, page) {
+  return request({
+    url: '/home/data',
     params: {
-      sort,
+      type,
       page
     }
   })

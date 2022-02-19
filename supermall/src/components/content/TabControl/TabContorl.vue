@@ -29,11 +29,11 @@ export default {
     };
   },
   methods: {
-      itemClick(index){
-          this.currentIndex = index;
-          // 子组件向父组件传递点击的index 传递给的方法以及index
-          this.$emit('tabClick',index)
-      }
+    itemClick(index) {
+      this.currentIndex = index;
+      // 子组件向父组件传递点击的index 传递给的方法以及index
+      this.$emit("tabClick", index);
+    },
   },
 };
 </script>
@@ -45,7 +45,7 @@ export default {
   line-height: 40px;
   height: 40px;
   background-color: #fff;
-  box-shadow: 2px ;
+  box-shadow: 2px;
 }
 .tabcontorl-item {
   flex: 1;

@@ -1,6 +1,7 @@
 <template>
-  <div class="goods-item">
-    <img :src="goodsItem.show.img" alt="" />
+  <div class="goods-item" @click="itemClick">
+    <!-- <img :src="showImage" alt="" @load="imageload"/> -->
+    <img v-lazy="showImage" alt="" @load="imageload" :key="0"/>
     <div class="goods-info">
       <p>{{ goodsItem.title }}</p>
       <span class="price">{{ goodsItem.price }}</span>
@@ -20,6 +21,22 @@ export default {
         return {};
       },
     },
+  },
+  computed:{
+    showImage(){
+      return this.goodsItem.image || this.goodsItem.show.img
+    }
+  },
+  methods: {
+    // 图片加载 本组件需要传递信息给home.vue 但是非父子，所以不可用父子组件 则使用$bus
+    imageload(){
+      // 通过数据总线的方式传出itemImageLoad
+      this.$bus.$emit('itemImageLoad')
+    },
+    itemClick(){
+      // console.log('跳转到详情页')
+      this.$router.push('/detail/'+this.goodsItem.iid)
+    }
   },
 };
 </script>

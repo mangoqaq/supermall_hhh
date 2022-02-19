@@ -12,17 +12,17 @@ module.exports = {
       }
     }
   },
-  devServer:{
-    proxy:{
-      '/':{
-        target:process.env.VUE_APP_BASE_API,
-        ws:false,
-        changeOrigin:true,
-        pathRewrite:{
-          '^':'/'
-        }
-      }
-    }
-  },
+  // devServer:{
+  //   proxy:{
+  //     '/':{
+  //       target:process.env.VUE_APP_BASE_API,
+  //       ws:false,
+  //       changeOrigin:true,
+  //       pathRewrite:{
+  //         '^':'/'
+  //       }
+  //     }
+  //   }
+  // },
 
 }

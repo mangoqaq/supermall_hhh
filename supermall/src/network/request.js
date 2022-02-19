@@ -6,7 +6,7 @@ export function request(config) {
   const instance = axios.create({
     // baseURL: 'http://192.168.0.106:8080/',
     // 老师的网址
-    baseURL: 'http://123.207.32.32:8000',
+    baseURL: 'http://152.136.185.210:7878/api/hy66',
     timeout: 5000
   })
 

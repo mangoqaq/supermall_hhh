@@ -36,7 +36,5 @@
 </script>
 
 <style>
-.tab-bar-index{
-  z-index: 10;
-}
+
 </style>
